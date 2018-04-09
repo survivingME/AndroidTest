@@ -22,7 +22,7 @@ public class ThirdActivity extends AppCompatActivity {
         intent = getIntent();
         Bundle bundle = intent.getExtras();
         tv_param = (TextView) findViewById(R.id.tv_param);
-        tv_param.setText("获得到的参数是" + bundle.get("param"));
+        tv_param.setText("获得到的参数是：" + bundle.get("param"));
 
         btn_return = (Button) findViewById(R.id.btn_return_first1);
         btn_return.setOnClickListener(new View.OnClickListener() {
