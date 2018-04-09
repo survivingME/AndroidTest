@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidLifecycle" />
+            <option value="$PROJECT_DIR$/HelloWorldActivity" />
+            <option value="$PROJECT_DIR$/MenuAndDialog" />
+            <option value="$PROJECT_DIR$/TestBroadcastReceiver" />
+            <option value="$PROJECT_DIR$/TestContactContentProvider" />
+            <option value="$PROJECT_DIR$/TestContentProvider" />
+            <option value="$PROJECT_DIR$/TestDatabase" />
+            <option value="$PROJECT_DIR$/TestFragment" />
+            <option value="$PROJECT_DIR$/TestHandler" />
+            <option value="$PROJECT_DIR$/TestIntent" />
+            <option value="$PROJECT_DIR$/TestMediaPlayer" />
+            <option value="$PROJECT_DIR$/TestService" />
+            <option value="$PROJECT_DIR$/TestSharedPreference" />
+            <option value="$PROJECT_DIR$/TestView" />
+            <option value="$PROJECT_DIR$/changetext" />
+            <option value="$PROJECT_DIR$/listandadapter" />
+            <option value="$PROJECT_DIR$/testmodule" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
