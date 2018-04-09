@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2014011311-master.iml" filepath="$PROJECT_DIR$/../2014011311-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndroidLifecycle/AndroidLifecycle.iml" filepath="$PROJECT_DIR$/../AndroidLifecycle/AndroidLifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../changetext/ChangeText.iml" filepath="$PROJECT_DIR$/../changetext/ChangeText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HelloWorldActivity/HelloWorldActivity.iml" filepath="$PROJECT_DIR$/../HelloWorldActivity/HelloWorldActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListAndAdapter.iml" filepath="$PROJECT_DIR$/ListAndAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MenuAndDialog/MenuAndDialog.iml" filepath="$PROJECT_DIR$/../MenuAndDialog/MenuAndDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestBroadcastReceiver/TestBroadcastReceiver.iml" filepath="$PROJECT_DIR$/../TestBroadcastReceiver/TestBroadcastReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestContactContentProvider/TestContactContentProvider.iml" filepath="$PROJECT_DIR$/../TestContactContentProvider/TestContactContentProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestContentProvider/TestContentProvider.iml" filepath="$PROJECT_DIR$/../TestContentProvider/TestContentProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestDatabase/TestDatabase.iml" filepath="$PROJECT_DIR$/../TestDatabase/TestDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestFragment/TestFragment.iml" filepath="$PROJECT_DIR$/../TestFragment/TestFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestHandler/TestHandler.iml" filepath="$PROJECT_DIR$/../TestHandler/TestHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestIntent/TestIntent.iml" filepath="$PROJECT_DIR$/../TestIntent/TestIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestMediaPlayer/TestMediaPlayer.iml" filepath="$PROJECT_DIR$/../TestMediaPlayer/TestMediaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestService/TestService.iml" filepath="$PROJECT_DIR$/../TestService/TestService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestSharedPreference/TestSharedPreference.iml" filepath="$PROJECT_DIR$/../TestSharedPreference/TestSharedPreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestView/TestView.iml" filepath="$PROJECT_DIR$/../TestView/TestView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testmodule/testmodule.iml" filepath="$PROJECT_DIR$/../testmodule/testmodule.iml" />
+    </modules>
+  </component>
+</project>
